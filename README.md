@@ -8,10 +8,11 @@ Un petit sujet Coding Club pour faire un bot discord en python !
 
 ## Introduction
 
-On va utiliser le wrapper python de l'API de Discord afin de coder un début de bot et de se familiariser avec l'API
+On va utiliser le wrapper python de l'[API](https://discordpy.readthedocs.io/en/stable/api.html) de Discord afin de coder un début de bot et de se familiariser avec les fonctionnalités disponibles
+
 La version "rewrite" du wrapper python sera utilisée afin de supporter les dernières fonctionnalités de Discord.
 
-Différents wrappers existent pour l'API de Discord. Il n'y a pas de différence de perf majeure entre les wrappers Python, JS, C#, etc...
+Différents wrappers existent pour l'[API](https://discordpy.readthedocs.io/en/stable/api.html) de Discord. Il n'y a pas de différence de perf majeure entre les wrappers Python, JS, C#, etc...
 
 Le but de ce workshop n'est pas de vous faire recoder MEE6 mais bien de vous montrer la puissance et le côté très accessible de l'outil.
 
