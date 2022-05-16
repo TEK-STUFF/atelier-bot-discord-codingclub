@@ -8,7 +8,7 @@ Un petit sujet Coding Club pour faire un bot discord en python !
 
 ## Introduction
 
-On va utiliser le wrapper python de l'[API](https://discordpy.readthedocs.io/en/stable/api.html) de Discord afin de coder un début de bot et de se familiariser avec les fonctionnalités disponibles
+On va utiliser le [wrapper](https://fr.wikipedia.org/wiki/Fonction_wrapper) python de l'[API](https://discordpy.readthedocs.io/en/stable/api.html) de Discord afin de coder un début de bot et de se familiariser avec les fonctionnalités disponibles
 
 La version "rewrite" du wrapper python sera utilisée afin de supporter les dernières fonctionnalités de Discord.
 
